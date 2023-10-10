@@ -1961,7 +1961,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1978,7 +1980,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2411,7 +2415,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2420,7 +2426,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2437,7 +2445,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2446,7 +2456,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2463,7 +2475,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2472,7 +2486,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2689,7 +2705,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2702,7 +2720,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2719,7 +2739,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2730,7 +2752,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2980,7 +3004,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3074,10 +3098,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -3151,7 +3179,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3160,7 +3190,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3212,10 +3244,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3489,6 +3525,240 @@
       },
       "defName": "AG_Beauty",
       "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faith",
+      "name": "faithful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was born for a life on the frontier. his ability to be up and about quickly is increased, he's less likely to be bothered by harsh weather, better at getting every last scrap from a fresh kill, and less likely to break down in a tough situation. However, Timmy longs for the wilderness and will randomly leave to seek it out.",
+      "stats": [
+        "+2 shooting",
+        "+1 melee",
+        "+1 cooking",
+        "+0.10 move speed",
+        "+5% eating speed",
+        "+5% butchery efficiency",
+        "+5% butchery speed",
+        "-5.00% food poison chance",
+        "-5% mental break threshold",
+        "-10.0C Minimum comfortable temperature",
+        "+10.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+1 melee",
+          "+1 cooking",
+          "+0.10 move speed",
+          "+5% eating speed",
+          "+5% butchery efficiency",
+          "+5% butchery speed",
+          "-5.00% food poison chance",
+          "-5% mental break threshold",
+          "-10.0C Minimum comfortable temperature",
+          "+10.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Frontiersman_Westerado",
+      "name": "frontiersman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is a descendant of the legendary 'Harlow', which greatly predisposes him to firearms.",
+      "stats": [
+        "+0.5 shooting accuracy",
+        "-50% aiming time"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.5 shooting accuracy",
+          "-50% aiming time"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DeadEyeTraits_Westerado",
+      "name": "bloodofharlow"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a dead eye. This, apparently, increases firearm skills.",
+      "stats": [
+        "+0.2 shooting accuracy",
+        "-35% aiming time"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 shooting accuracy",
+          "-35% aiming time"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DeadEyeTraits_Westerado",
+      "name": "deadeye"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy was born with a pretty face, and a fast gun-hand.",
+      "stats": [
+        "+0.3 shooting accuracy",
+        "-15% aiming time",
+        "+10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.3 shooting accuracy",
+          "-15% aiming time",
+          "+10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "good"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is just a generally bad person. This subtly repels others during social interactions.",
+      "stats": [
+        "+0.2 melee hit chance",
+        "-10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 melee hit chance",
+          "-10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "bad"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is ugly. More so in character than looks, but also looks. Lazy, quick to anger, deceptive, and gluttonous are all descriptions that would befit him.",
+      "stats": [
+        "-25% aiming time",
+        "-20% rest rate multiplier",
+        "-15% eating speed",
+        "-10% mental break threshold",
+        "-10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-25% aiming time",
+          "-20% rest rate multiplier",
+          "-15% eating speed",
+          "-10% mental break threshold",
+          "-10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "ugly"
     }
   ],
   "races": [
@@ -3518,47 +3788,301 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Mass",
-          "+90% Flammability",
-          "+66% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+5.0C Minimum comfortable temperature",
-          "+90.0C Maximum comfortable temperature",
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.40 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
           "+75 Leather amount",
-          "+$1000 Market value",
-          "+6.90 Move speed",
-          "+125 Carrying capacity",
-          "+10% Mental break threshold",
-          "+75% Research speed",
-          "+100% Mining speed",
-          "+50.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+30.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+30.0% Armor - Heat",
-          "+125% Immunity gain speed",
-          "+105% Injury healing factor",
-          "+10 Minimum handling skill",
-          "+95% Pain shock threshold",
-          "+1 Foraged food amount",
-          "+1.2 Filth rate",
-          "+115% Hunting stealth",
-          "+105% Global learning factor",
-          "+75% Global work speed",
-          "-0.3 Shooting accuracy",
-          "+200% Suppression power"
+          "+3 Honor value",
+          "+110% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A very large and imposing reptile-like humanoid with massive, razor sharp claws that can rip armored and unarmored foes to ribbons with ease. They possess incredible strength and durable hides that grant them resillience to most forms of damage and the elements alike. However, their mental and social abilities are often below that of the average human and their claws make tasks requiring careful manipulation slow and difficult.",
-      "defName": "SSD_DeathclawRace",
+      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.",
+      "defName": "Aelanna_Heruan",
       "enabled": true,
-      "name": "Deathcloid",
-      "price": 1667
+      "name": "heruan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic environment resistance",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic environment resistance",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.00 Move speed",
+          "+20.0C Maximum comfortable temperature",
+          "+8.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+38% Mental break threshold",
+          "+26.0C Maximum comfortable temperature",
+          "+16.0C Minimum comfortable temperature",
+          "+0% Toxic resistance",
+          "+0% Toxic environment resistance",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+120% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+0.8 Melee hit chance",
+          "+80% Aiming time",
+          "+1.2 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+120% Drug synthesis speed",
+          "+120% Medical surgery success chance",
+          "+80% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
+      "defName": "Rabbie",
+      "enabled": true,
+      "name": "Rabbie",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+90.00 Mass",
+          "+35% Flammability",
+          "+$2800 Market value",
+          "+2 Honor value",
+          "+4.50 Move speed",
+          "+30.0C Maximum comfortable temperature",
+          "+10.0C Minimum comfortable temperature",
+          "+120% Injury healing factor",
+          "+120% Rest rate multiplier",
+          "+200% Eating speed",
+          "+0.00% Food poison chance",
+          "+135% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+100 Meat amount",
+          "+60 Leather amount",
+          "+5% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+55.00% Social impact",
+          "+115% General labor speed",
+          "+100% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+75% Aiming time"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+      "defName": "Alien_RedMoyo",
+      "enabled": true,
+      "name": "Red Moyo",
+      "price": 4667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+56.00 Mass",
+          "+200% Flammability",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+3% Mental break threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+80% Global learning factor",
+          "+140% Rest rate multiplier",
+          "+200% Eating speed",
+          "+400% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40 Meat amount",
+          "+0 Leather amount",
+          "+0 Minimum handling skill",
+          "+100% Pain shock threshold",
+          "+1.4 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+90% Global work speed",
+          "+100% General labor speed",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "-300.0C Minimum comfortable temperature",
+          "+23.0C Maximum comfortable temperature",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
+      "defName": "Mincho_ThingDef",
+      "enabled": true,
+      "name": "mincho",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+22.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 5000
     }
   ]
 }
