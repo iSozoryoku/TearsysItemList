@@ -648,7 +648,7 @@
       "addPrice": 2069,
       "removePrice": 1420,
       "degree": 0,
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever and is not bothered by darkness. However, Timmy will be unhappy while outdoors.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -770,7 +770,7 @@
       "addPrice": 2069,
       "removePrice": 1420,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -1789,50 +1789,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
       "stats": [
@@ -1875,84 +1831,6 @@
       },
       "defName": "Recluse",
       "name": "recluse"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Reduces Timmy's hunger.",
-      "stats": [],
-      "conflicts": [
-        "gourmand",
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "gourmand",
-          "ascetic"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Hakuro Xenohuman",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hunting_temperance",
-      "name": "temperance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is Herculean, and can use heavy weapons.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Roo's Minotaur Xenotype",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RBM_Herculean_Trait",
-      "name": "herculean"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's vulgar jokes, lack of manners and sleazy demeanor tend to drive others away. Thankfully, Timmy doesn't let rejection get them down.",
-      "stats": [],
-      "conflicts": [
-        "kind",
-        "asexual"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kind",
-          "asexual"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Roo's Satyr Xenotype",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RBSF_Uncouth",
-      "name": "uncouth"
     },
     {
       "canAdd": true,
@@ -3532,35 +3410,21 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
+      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ],
+        "conflicts": [],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
+        "mod": "Anomaly",
         "karmaTypeForAdding": null
       },
-      "defName": "Faith",
-      "name": "faithful"
+      "defName": "PerfectMemory",
+      "name": "perfectmemory"
     },
     {
       "canAdd": true,
@@ -3568,77 +3432,127 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy was born for a life on the frontier. his ability to be up and about quickly is increased, he's less likely to be bothered by harsh weather, better at getting every last scrap from a fresh kill, and less likely to break down in a tough situation. However, Timmy longs for the wilderness and will randomly leave to seek it out.",
+      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
       "stats": [
-        "+2 shooting",
-        "+1 melee",
-        "+1 cooking",
-        "+0.10 move speed",
-        "+5% eating speed",
-        "+5% butchery efficiency",
-        "+5% butchery speed",
-        "-5.00% food poison chance",
-        "-5% mental break threshold",
-        "-10.0C Minimum comfortable temperature",
-        "+10.0C Maximum comfortable temperature"
-      ],
-      "conflicts": [
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp"
-        ],
-        "stats": [
-          "+2 shooting",
-          "+1 melee",
-          "+1 cooking",
-          "+0.10 move speed",
-          "+5% eating speed",
-          "+5% butchery efficiency",
-          "+5% butchery speed",
-          "-5.00% food poison chance",
-          "-5% mental break threshold",
-          "-10.0C Minimum comfortable temperature",
-          "+10.0C Maximum comfortable temperature"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Frontiersman_Westerado",
-      "name": "frontiersman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is a descendant of the legendary 'Harlow', which greatly predisposes him to firearms.",
-      "stats": [
-        "+0.5 shooting accuracy",
-        "-50% aiming time"
+        "+100% study efficiency",
+        "+50% entity study rate"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+0.5 shooting accuracy",
-          "-50% aiming time"
+          "+100% study efficiency",
+          "+50% entity study rate"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
+        "mod": "Anomaly",
         "karmaTypeForAdding": null
       },
-      "defName": "DeadEyeTraits_Westerado",
-      "name": "bloodofharlow"
+      "defName": "Occultist",
+      "name": "occultist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "joyous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "bodymastery"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "disturbing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Void meditation focus type allowed.",
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Void meditation focus type allowed.",
+          "Only mental break \"entity liberator\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "voidfascination"
     },
     {
       "canAdd": true,
@@ -3646,57 +3560,21 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy has a dead eye. This, apparently, increases firearm skills.",
-      "stats": [
-        "+0.2 shooting accuracy",
-        "-35% aiming time"
-      ],
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "+0.2 shooting accuracy",
-          "-35% aiming time"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null
       },
-      "defName": "DeadEyeTraits_Westerado",
-      "name": "deadeye"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy was born with a pretty face, and a fast gun-hand.",
-      "stats": [
-        "+0.3 shooting accuracy",
-        "-15% aiming time",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.3 shooting accuracy",
-          "-15% aiming time",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DollarTrilogyTraits_Westerado",
-      "name": "good"
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
     },
     {
       "canAdd": true,
@@ -3704,61 +3582,21 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy is just a generally bad person. This subtly repels others during social interactions.",
-      "stats": [
-        "+0.2 melee hit chance",
-        "-10.00% social impact"
-      ],
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "+0.2 melee hit chance",
-          "-10.00% social impact"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null
       },
-      "defName": "DollarTrilogyTraits_Westerado",
-      "name": "bad"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy is ugly. More so in character than looks, but also looks. Lazy, quick to anger, deceptive, and gluttonous are all descriptions that would befit him.",
-      "stats": [
-        "-25% aiming time",
-        "-20% rest rate multiplier",
-        "-15% eating speed",
-        "-10% mental break threshold",
-        "-10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-25% aiming time",
-          "-20% rest rate multiplier",
-          "-15% eating speed",
-          "-10% mental break threshold",
-          "-10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Westerado (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DollarTrilogyTraits_Westerado",
-      "name": "ugly"
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -3770,8 +3608,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3792,8 +3630,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+5.40 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
+          "+10.0C Min comfortable temperature",
+          "+36.0C Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value",
           "+110% Global learning factor"
@@ -3806,204 +3644,6 @@
       "enabled": true,
       "name": "heruan",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+31.0C Maximum comfortable temperature",
-          "+6.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+90% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+118% Aiming time",
-          "+85.00% Negotiation ability",
-          "+107.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
-      "defName": "Ratkin",
-      "enabled": true,
-      "name": "Ratkin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+31.0C Maximum comfortable temperature",
-          "+6.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+80% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+118% Aiming time",
-          "+75.00% Negotiation ability",
-          "+95.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed",
-          "+85% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
-      "defName": "Ratkin_Su",
-      "enabled": true,
-      "name": "Ratkin subject",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+50% Flammability",
-          "+$2500 Market value",
-          "+4.00 Move speed",
-          "+20.0C Maximum comfortable temperature",
-          "+8.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+120% Psychic sensitivity",
-          "+0.8 Melee dodge chance",
-          "+100.00% Social impact",
-          "+85% General labor speed",
-          "+130% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+115% Medical tend quality",
-          "+115% Medical surgery success chance",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-      "defName": "Alien_Moyo",
-      "enabled": true,
-      "name": "Moyo",
-      "price": 4167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+38% Mental break threshold",
-          "+26.0C Maximum comfortable temperature",
-          "+16.0C Minimum comfortable temperature",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+60 Meat amount",
-          "+50 Leather amount",
-          "+80% Pain shock threshold",
-          "+120% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+0.8 Melee hit chance",
-          "+80% Aiming time",
-          "+1.2 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+120% Drug synthesis speed",
-          "+120% Medical surgery success chance",
-          "+80% Mining speed",
-          "+100% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
-      "defName": "Rabbie",
-      "enabled": true,
-      "name": "Rabbie",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+90.00 Mass",
-          "+35% Flammability",
-          "+$2800 Market value",
-          "+2 Honor value",
-          "+4.50 Move speed",
-          "+30.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+120% Injury healing factor",
-          "+120% Rest rate multiplier",
-          "+200% Eating speed",
-          "+0.00% Food poison chance",
-          "+135% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+100 Meat amount",
-          "+60 Leather amount",
-          "+5% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+55.00% Social impact",
-          "+115% General labor speed",
-          "+100% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+75% Aiming time"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
-      "defName": "Alien_RedMoyo",
-      "enabled": true,
-      "name": "Red Moyo",
-      "price": 4667
     },
     {
       "data": {
@@ -4035,8 +3675,8 @@
           "+100% General labor speed",
           "+$2000 Market value",
           "+4.00 Move speed",
-          "-300.0C Minimum comfortable temperature",
-          "+23.0C Maximum comfortable temperature",
+          "-300.0C Min comfortable temperature",
+          "+23.0C Max comfortable temperature",
           "+3 Honor value"
         ],
         "mod": "Unknown",
@@ -4068,8 +3708,8 @@
           "+40 Leather amount",
           "+82% Pain shock threshold",
           "+30% Mental break threshold",
-          "+22.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
+          "+22.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
           "+5.20 Move speed",
           "+95% Aiming time",
           "+10.0 Melee dodge chance",
@@ -4083,6 +3723,28 @@
       "enabled": true,
       "name": "Nyaron",
       "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "CreepJoiner",
+      "enabled": true,
+      "name": "human",
+      "price": 2917
     }
   ]
 }
