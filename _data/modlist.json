@@ -1,11 +1,5 @@
 [
   {
-    "author": "Zetrith",
-    "name": "Prepatcher",
-    "steamId": "2934420800",
-    "version": "1.0.0+54a2d222e6ef012b2668311d74ed5ecdb37e26d0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -21,13 +15,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
+    "version": "11.0.4"
   },
   {
     "author": "LimeTreeSnake",
@@ -66,16 +54,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "BlackMarket420",
-    "name": "Pandora's Framework",
-    "steamId": "3226701491",
-    "version": "1.0.0.0"
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.8892.23746"
   },
   {
     "author": "Syrchalis",
     "name": "[SYR] Processor Framework",
     "steamId": "3210544395",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jacob and Taranchuk",
+    "name": "Save Maps (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
@@ -180,12 +174,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
-    "steamId": "2102143149",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -210,12 +198,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.9.2.0"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
@@ -232,18 +214,6 @@
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "WalterHawkwood",
-    "name": "Facial Animations Xenotype Compatibility",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BlackMarket420",
-    "name": "Eccentric Militors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "rooki1",
@@ -266,24 +236,6 @@
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "gguake",
-    "name": "Apparel BodyType Resolver",
-    "steamId": "2037354634",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SutSutMan and Dalrae",
-    "name": "Mincho, The Mint Choco Slime ~ HAR ver.",
-    "steamId": "2477501851",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Talos",
-    "name": "Mincho FacialAnime",
     "steamId": null,
     "version": null
   },
@@ -327,11 +279,23 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.13.0"
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear Basic",
     "steamId": null,
     "version": null
   },
@@ -360,16 +324,16 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Animals Forage - Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.8838.38019"
-  },
-  {
-    "author": "jamaicancastle",
-    "name": "Shoo!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mlie",
@@ -388,12 +352,6 @@
     "name": "[M3] Tearsy's Chooks [1.4 - 1.5]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Grazing Lands",
-    "steamId": "1770268130",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -444,28 +402,10 @@
     "version": "1.5.4062.1"
   },
   {
-    "author": "FlatronWS",
-    "name": "Chicken launcher",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Syrus",
     "name": "Colonist Bar Adjuster",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Find Lib",
-    "steamId": "2895299310",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Ctrl F",
-    "steamId": "2895300634",
-    "version": "1.0.0.0"
   },
   {
     "author": "flangopink",
@@ -486,16 +426,10 @@
     "version": null
   },
   {
-    "author": "telardo",
-    "name": "DragSelect",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8875.40322"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Ykara(Original) elStrages(1.4/1.5 Update)",
@@ -516,16 +450,64 @@
     "version": "1.0.8865.29426"
   },
   {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Chill the F*** Out",
     "steamId": "2880668727",
     "version": "1.0.3"
+  },
+  {
+    "author": "alt4s",
+    "name": "Allies are Helpful",
+    "steamId": "3235428952",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LTS",
+    "name": "Crypto Coffins",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited and 火焰乌龟",
+    "name": "Bill Doors' Lifturtle Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "diddily",
+    "name": "Power Alerts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ogre",
@@ -536,12 +518,6 @@
   {
     "author": "Dyrewulfe",
     "name": "Food Poisoning Stack Fix (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
     "steamId": null,
     "version": null
   },
@@ -558,12 +534,6 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Killgaet",
     "name": "Hell Kitchen Raid Sound",
     "steamId": null,
@@ -573,7 +543,7 @@
     "author": "Aelanna",
     "name": "Heruan, Keepers of Memories",
     "steamId": "2810613161",
-    "version": "1.7.2.0"
+    "version": "1.7.5.0"
   },
   {
     "author": "Zylle",
@@ -711,7 +681,7 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0"
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
     "author": "Farmradish",
@@ -795,19 +765,13 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.5.1"
+    "version": "1.5.3"
   },
   {
     "author": "Temmie3754",
     "name": "ReTend",
     "steamId": "2996971119",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
   },
   {
     "author": "YAYO",
@@ -826,6 +790,24 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
+    "author": "Deadmano",
+    "name": "Mood Alerts",
+    "steamId": "3128351120",
+    "version": "1.5.0"
   },
   {
     "author": "avilmask",
@@ -856,6 +838,18 @@
     "name": "RimSaves",
     "steamId": "1713367505",
     "version": "2024.0.1.20"
+  },
+  {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -906,16 +900,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
+    "author": "MrHydralisk",
+    "name": "Skilled Slaughtering",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Smarter Visitors",
-    "steamId": "3012491521",
-    "version": "1.5.1"
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Orion",
@@ -933,13 +927,13 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.8844.5264"
+    "version": "1.0.8884.37791"
   },
   {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.0.0.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "jptrrs",
@@ -1008,6 +1002,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "pureMJ",
+    "name": "Vanilla Fix: Haul After Slaughter",
+    "steamId": "2801452324",
+    "version": "0.3.0"
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -1056,6 +1056,12 @@
     "version": "1.0.8838.32721"
   },
   {
+    "author": "pureMJ",
+    "name": "While You Are Nearby",
+    "steamId": "2784585275",
+    "version": "0.7.1"
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -1098,16 +1104,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "busted_bunny",
+    "name": "Recycle This (Continued)",
+    "steamId": "3253550009",
+    "version": "1.5.2"
+  },
+  {
     "author": "Grizzlemethis",
     "name": "[GMT] Trading Spot",
     "steamId": "2874517333",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Arakos",
-    "name": "Call A Trader",
-    "steamId": "2784149999",
-    "version": "1.5.0"
   },
   {
     "author": "KittahKhan",
@@ -1123,7 +1129,7 @@
   },
   {
     "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.4",
+    "name": "[T] MoreFloors 1.5",
     "steamId": null,
     "version": null
   },
@@ -1221,7 +1227,7 @@
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "3.0.8876.35532"
+    "version": "3.0.8935.25418"
   },
   {
     "author": "Jaxe",
@@ -1257,11 +1263,23 @@
     "author": "Aelanna",
     "name": "Eccentric Tech - Cosmetic Modifications",
     "steamId": "2552628984",
-    "version": "3.2.1.0"
+    "version": "3.3.0.0"
   },
   {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MG_Atwood",
+    "name": "[ATW] Ridiculous Chicken Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
     "steamId": null,
     "version": null
   },
@@ -1281,13 +1299,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.2.0.0"
   },
   {
     "author": "Dubwise",
