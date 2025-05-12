@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -94,11 +89,6 @@
 		"abr": "blight",
 		"price": 1700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -143,11 +133,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -206,26 +191,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 8500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 5500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -238,11 +203,6 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -274,11 +234,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -406,5 +361,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 81
+	"total": 72
 }
