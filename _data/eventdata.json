@@ -505,9 +505,9 @@
   },
   "visitcolony": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 15000,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
