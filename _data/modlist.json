@@ -15,7 +15,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "LimeTreeSnake",
@@ -54,16 +54,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.8892.23746"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Processor Framework",
     "steamId": "3210544395",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.1.1"
   },
   {
     "author": "Jacob and Taranchuk",
@@ -140,8 +140,8 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1718190143",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
@@ -192,8 +192,20 @@
     "version": null
   },
   {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Vanilla Expanded Extra Embrasures",
     "steamId": null,
     "version": null
   },
@@ -210,7 +222,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Allie, Erin and Sarg",
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
@@ -238,6 +250,12 @@
     "name": "Eccentric Tech - Core",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "gguake",
+    "name": "Apparel BodyType Resolver",
+    "steamId": "2037354634",
+    "version": "1.0.0.0"
   },
   {
     "author": "Inglix",
@@ -279,7 +297,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
+    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
     "author": "UnlimitedHugs",
@@ -366,6 +384,12 @@
     "version": null
   },
   {
+    "author": "Davai",
+    "name": "Davai's Sorted Categories",
+    "steamId": "3419053173",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Lucifer",
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
@@ -420,16 +444,22 @@
     "version": null
   },
   {
-    "author": "Wolfcub05",
-    "name": "Draftable Animals",
+    "author": "telardo",
+    "name": "DragSelect",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": "2590957984",
+    "version": "1.0.0"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8911.30668"
+    "version": "1.0.9113.26296"
   },
   {
     "author": "Ykara(Original) elStrages(1.4/1.5 Update)",
@@ -474,6 +504,12 @@
     "version": null
   },
   {
+    "author": "gguake",
+    "name": "Do Something for Idle",
+    "steamId": "1896806569",
+    "version": "1.0.1.2"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -502,6 +538,12 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.5.0.4"
+  },
+  {
+    "author": "Ereko",
+    "name": "AutoFoldingTable 自动折叠桌",
+    "steamId": "3372702010",
+    "version": "1.0.0.0"
   },
   {
     "author": "diddily",
@@ -543,7 +585,13 @@
     "author": "Aelanna",
     "name": "Heruan, Keepers of Memories",
     "steamId": "2810613161",
-    "version": "1.7.5.0"
+    "version": "1.7.6.0"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "I will be back",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Zylle",
@@ -630,6 +678,12 @@
     "version": null
   },
   {
+    "author": "cabmoomoo",
+    "name": "Misc. Robots++",
+    "steamId": "3253308913",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Mitz's Chicken Coop (Continued)",
     "steamId": null,
@@ -711,7 +765,7 @@
     "author": "erdelf",
     "name": "PrisonerRansom",
     "steamId": "794038005",
-    "version": "1.0.8838.32743"
+    "version": "1.0.9069.31989"
   },
   {
     "author": "Mlie",
@@ -765,7 +819,7 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.5.3"
+    "version": "1.5.8"
   },
   {
     "author": "Temmie3754",
@@ -802,6 +856,12 @@
     "name": "Replace Stuff Mod Compatibility",
     "steamId": "2642161586",
     "version": "2.0.3"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's HD Glasses Hairstyles",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Deadmano",
@@ -870,6 +930,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Bean",
+    "name": "Elves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Room Food",
     "steamId": "1339148170",
@@ -912,10 +978,16 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Therapy",
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Therapy",
+    "steamId": "1076950211",
+    "version": "1.5.0.3"
   },
   {
     "author": "Weilbyte",
@@ -927,7 +999,7 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.8884.37791"
+    "version": "1.0.9174.27002"
   },
   {
     "author": "Jaxe",
@@ -999,7 +1071,7 @@
     "author": "Mlie",
     "name": "Useless Filter",
     "steamId": "2780076290",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "pureMJ",
@@ -1107,7 +1179,7 @@
     "author": "busted_bunny",
     "name": "Recycle This (Continued)",
     "steamId": "3253550009",
-    "version": "1.5.2"
+    "version": "1.5.9"
   },
   {
     "author": "Grizzlemethis",
@@ -1218,16 +1290,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] FrozenSnowFox Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "3.0.8935.25418"
+    "version": "3.0.9196.26656"
   },
   {
     "author": "Jaxe",
@@ -1238,6 +1304,12 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] FrozenSnowFox Tweaks",
     "steamId": null,
     "version": null
   },
@@ -1263,7 +1335,7 @@
     "author": "Aelanna",
     "name": "Eccentric Tech - Cosmetic Modifications",
     "steamId": "2552628984",
-    "version": "3.3.0.0"
+    "version": "3.4.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -1274,6 +1346,12 @@
   {
     "author": "MG_Atwood",
     "name": "[ATW] Ridiculous Chicken Variety",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Milkman",
+    "name": "Biotech Cosmetic Kit - Horns Halos and More",
     "steamId": null,
     "version": null
   },
@@ -1318,6 +1396,12 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Red's Performance Fixes (aka. Comp EggLayer Fix)",
+    "steamId": "3343465955",
+    "version": "0.0.0.0"
   },
   {
     "author": "Krkr",
