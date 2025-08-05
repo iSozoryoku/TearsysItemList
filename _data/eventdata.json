@@ -329,9 +329,9 @@
   },
   "alphabeavers": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 69420,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
