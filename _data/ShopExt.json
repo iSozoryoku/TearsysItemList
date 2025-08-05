@@ -3611,7 +3611,9 @@
           "+16.0C Min comfortable temperature",
           "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness",
+          "+0.0 Filth rate"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3634,6 +3636,8 @@
           "+36.0C Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value",
+          "+75% Wildness",
+          "+0.0 Filth rate",
           "+110% Global learning factor"
         ],
         "mod": "Unknown",
@@ -3698,7 +3702,9 @@
           "+16.0C Min comfortable temperature",
           "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness",
+          "+0.0 Filth rate"
         ],
         "mod": "Unknown",
         "karmaType": null
