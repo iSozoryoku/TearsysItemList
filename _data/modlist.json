@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -33,7 +33,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.1"
+    "version": "1.9.2"
   },
   {
     "author": "erdelf",
@@ -90,6 +90,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
@@ -132,6 +138,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "alite",
+    "name": "EBSG Framework",
+    "steamId": "3112549163",
+    "version": "1.0.9415.13319"
+  },
+  {
     "author": "Harkon",
     "name": "[HRK] Vanilla Expanded Extra Embrasures",
     "steamId": null,
@@ -157,7 +181,7 @@
   },
   {
     "author": "rooki1",
-    "name": "Rimsenal - Core",
+    "name": "Rimsenal: Murder diversified",
     "steamId": null,
     "version": null
   },
@@ -171,11 +195,17 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "あめがくる",
+    "name": "Grav Field Extender Floor",
     "steamId": null,
     "version": null
   },
@@ -186,10 +216,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Inglix",
     "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
   },
   {
     "author": "JI_Won",
@@ -214,6 +256,18 @@
     "name": "Allow Dead Animals",
     "steamId": "2403873031",
     "version": "1.0.0.0+c9f808ee84c5a8e619fd76a99f08f34d1ae0db5a"
+  },
+  {
+    "author": "3HST Limited and 火焰乌龟",
+    "name": "Bill Doors' Lifturtle Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "No Barrack Penalty (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -246,6 +300,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Captain Muscles (Original), Khobs, Maxhd4321 and Mr. Wolf (摄魂狼) (Chinese)",
+    "name": "Chill the Fork Out",
+    "steamId": "3523235444",
+    "version": "1.0.22"
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Visible Wealth",
     "steamId": "3461137081",
@@ -258,6 +318,12 @@
     "version": "1.6+9fbb9bf3de3be6a85c1dfa2d16aa81fc1c7b9865"
   },
   {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": "2056012179",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -267,17 +333,23 @@
     "author": "MemeGoddess",
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
-    "version": "1.0.0+be1ff242ffd9b61a532cfb790d8ff9714a471ea3"
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
   },
   {
     "author": "Ingendum",
     "name": "Animal Apparel: Framework",
     "steamId": "3513825850",
-    "version": "1.6+831110631f522c202f398546196b1943fcb4c898"
+    "version": "1.6+f61c243beedfcf1c14b497f27a5c38cb27623369"
   },
   {
     "author": "Ingendum",
     "name": "Animal Apparel: Basic Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ingendum",
+    "name": "Animal Apparel: Vac Belt",
     "steamId": null,
     "version": null
   },
@@ -297,13 +369,13 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.9337.5269"
+    "version": "1.0.9372.42515"
   },
   {
     "author": "Wolfcub05 and Aleksey",
     "name": "Draftable Animals - Releashed",
-    "steamId": "",
-    "version": "1.0.0"
+    "steamId": "3534629428",
+    "version": "1.0.0+dca2141a1a48b0d3c7a84995ed0dda08e592943a"
   },
   {
     "author": "Mlie",
@@ -336,10 +408,34 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
+    "author": "ferny",
+    "name": "Ferny's Easy Caravan Formation",
+    "steamId": "3165744287",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour) and Kat",
     "name": "Do Your F****** Research",
     "steamId": "3523205869",
-    "version": "1.0.8"
+    "version": "1.0.4"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Better Pyromania",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "Dismantle Ancient Junk",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Crow",
@@ -369,19 +465,13 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4518.1"
+    "version": "1.6.4553.2"
   },
   {
     "author": "Syrus",
     "name": "Colonist Bar Adjuster",
     "steamId": "2673413930",
-    "version": "1.6.2.0"
-  },
-  {
-    "author": "joolsdgg",
-    "name": "Cargo Holds",
-    "steamId": null,
-    "version": null
+    "version": "1.6.3.0"
   },
   {
     "author": "dracoix",
@@ -396,10 +486,16 @@
     "version": null
   },
   {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9347.27104"
+    "version": "1.0.9416.33549"
   },
   {
     "author": "Ykara(Original) elStrages(1.4/1.5/1.6 Update)",
@@ -450,16 +546,34 @@
     "version": null
   },
   {
+    "author": "VentaExtera",
+    "name": "Ideo Roles Don't Forbid Work",
+    "steamId": "3284846696",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing (Continued)",
     "steamId": null,
     "version": null
   },
   {
+    "author": "MrHydralisk",
+    "name": "Complementary Odyssey",
+    "steamId": "3546612303",
+    "version": "1.9.0.2"
+  },
+  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "3532608331",
     "version": "1.5.0.4"
+  },
+  {
+    "author": "joolsdgg",
+    "name": "Cargo Holds",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -474,6 +588,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "RashoMcree",
+    "name": "Orbital Platforms",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Darknote",
     "name": "Bunk Beds",
     "steamId": "2961752749",
@@ -482,6 +602,12 @@
   {
     "author": "Dyrewulfe",
     "name": "Food Poisoning Stack Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Absolutely) Worthless",
     "steamId": null,
     "version": null
   },
@@ -522,6 +648,24 @@
     "version": null
   },
   {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TheLordDrake",
+    "name": "Room Food",
+    "steamId": "3530729319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oganesson",
+    "name": "[Og] Repair Your Gear",
+    "steamId": "3513376486",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zylle",
     "name": "Hybrid Animals",
     "steamId": null,
@@ -544,6 +688,12 @@
     "name": "Jewelry",
     "steamId": "3203280763",
     "version": "1.4.3.0"
+  },
+  {
+    "author": "diddily",
+    "name": "Power Alerts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -582,6 +732,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Snowcraft",
     "name": "Minotaur Xenotype",
     "steamId": "3234429575",
@@ -598,6 +754,12 @@
     "name": "Misc. Robots++",
     "steamId": "3253308913",
     "version": "1.0.0+a6b21f56d3af4cca6161d768fdbdc78d6fa3dcdd"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Shields",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Zaljerem",
@@ -618,8 +780,8 @@
     "version": null
   },
   {
-    "author": "Sovereign and Elseud",
-    "name": "Nephilim Xenotype",
+    "author": "Sovereign, Elseud, DetVisor, Visandar and Alite",
+    "name": "Nephilim Xenotype Reborn",
     "steamId": null,
     "version": null
   },
@@ -627,7 +789,7 @@
     "author": "Sk",
     "name": "No Sympathy For Prisoners",
     "steamId": "3533769253",
-    "version": "1.1.1.0"
+    "version": "1.3.1.0"
   },
   {
     "author": "cedaro",
@@ -654,28 +816,10 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers (1.6 Temp)",
-    "steamId": "3513829896",
-    "version": "1.0.0+a6637110a822df954a40d53efaf21b6900453851"
-  },
-  {
-    "author": "Montcal",
-    "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "fed1sPlay",
     "name": "PawnTargetFix",
     "steamId": "2014789938",
-    "version": "1.0.0.0"
+    "version": "0.1.0.0"
   },
   {
     "author": "void",
@@ -729,13 +873,25 @@
     "author": "The White Crayon",
     "name": "Quarry (1.6 Temp)",
     "steamId": "3513840161",
-    "version": "2.0.0+0752f0a64776e90b86e01fc9cd5b3ac05d4b5f27"
+    "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
   },
   {
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
     "version": "1.6.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Therapy (Continued)",
+    "steamId": "3509488682",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
   },
   {
     "author": "Temmie3754 and MrKev",
@@ -750,6 +906,12 @@
     "version": null
   },
   {
+    "author": "Uuugggg",
+    "name": "Build From Inventory - Continued",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "sirrandoo",
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
@@ -759,7 +921,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+4b8e6850ec15a644d80aa95887387ebb8ea0918a"
+    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
   },
   {
     "author": "Rooboid",
@@ -786,6 +948,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.2.*"
+  },
+  {
     "author": "ruPal",
     "name": "RimPy Mod Manager Database",
     "steamId": null,
@@ -807,7 +975,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+10bb0ee49932c4dd8b2ad4bedfbba00f23e25645"
+    "version": "1.0.0+d2d7eeacd8438045c8f9e435ec7ed48fc9e97e3a"
   },
   {
     "author": "DetVisor and Feldoh",
@@ -837,7 +1005,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "",
-    "version": "1.0.0+bedde978b7e562e73e82dc636f53ffea486811b0"
+    "version": "1.0.0+039d067e32f24f91e6520e43b628a17d944b6507"
   },
   {
     "author": "denev",
@@ -885,13 +1053,13 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.9323.42957"
+    "version": "1.0.9367.38441"
   },
   {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "4.1.0.0"
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "Redundantusage",
@@ -922,6 +1090,12 @@
     "name": "Trade UI Revised",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Tad",
+    "name": "Trading Control",
+    "steamId": "2007107588",
+    "version": "22.3.24.17"
   },
   {
     "author": "CaptainGeorge",
@@ -969,7 +1143,7 @@
     "author": "Mlie",
     "name": "Useless Filter",
     "steamId": "2780076290",
-    "version": "1.6.0"
+    "version": "1.6.2"
   },
   {
     "author": "pureMJ",
@@ -1011,7 +1185,7 @@
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.9293.37478"
+    "version": "1.0.9359.26061"
   },
   {
     "author": "pureMJ",
@@ -1029,7 +1203,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
     "author": "Orion",
@@ -1050,6 +1224,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Mlie",
+    "name": "Relevant Stats In Description",
+    "steamId": "2692669482",
+    "version": "1.6.1"
+  },
+  {
     "author": "Sokyran and Hush",
     "name": "Rimder: Romance Control",
     "steamId": "3047313402",
@@ -1059,7 +1239,7 @@
     "author": "busted_bunny",
     "name": "Recycle This (Continued)",
     "steamId": "3253550009",
-    "version": "1.6.2"
+    "version": "1.6.6"
   },
   {
     "author": "KittahKhan",
@@ -1078,6 +1258,12 @@
     "name": "[T] MoreFloors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
   },
   {
     "author": "Doug",
@@ -1134,6 +1320,12 @@
     "version": null
   },
   {
+    "author": "LotusLand",
+    "name": "Weapon Upgrade",
+    "steamId": "3395769930",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
@@ -1167,19 +1359,25 @@
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "1.6.9324.26979"
+    "version": "1.6.9373.23752"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.17.4+b09e96041e317120e699b719d9171a1e2452b2fe"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "Andromeda",
     "name": "Useful Marks",
     "steamId": "3506573327",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
   },
   {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
@@ -1212,6 +1410,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "BustedPretex",
+    "name": "Show Buildable Material Count",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelanna",
     "name": "Eccentric Tech - Cosmetic Modifications",
     "steamId": "2552628984",
@@ -1242,8 +1446,8 @@
     "version": null
   },
   {
-    "author": "SineSwiper",
-    "name": "Xenobionic Patcher",
+    "author": "Mlie",
+    "name": "Bad Meat Category",
     "steamId": null,
     "version": null
   },
@@ -1263,7 +1467,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Andreas Pardeike",
@@ -1284,8 +1488,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
+    "author": "Farmradish",
+    "name": "Nyaron race",
     "steamId": null,
     "version": null
   }
