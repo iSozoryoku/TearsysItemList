@@ -369,7 +369,7 @@
   },
   "dropraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
     "LocalCooldown": 50000,
