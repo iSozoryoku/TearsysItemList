@@ -1742,7 +1742,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": -10,
+		"price": 500,
 		"category": "Animals",
 		"defname": "Cow"
 	},
@@ -18805,12 +18805,6 @@
 		"defname": "DefensiveImpaler"
 	},
 	{
-		"abr": "shortwall",
-		"price": 14,
-		"category": "Misc",
-		"defname": "VFEP_ShortWalls"
-	},
-	{
 		"abr": "shoulderchargeturret",
 		"price": 1867,
 		"category": "Bionic",
@@ -18938,7 +18932,7 @@
 	},
 	{
 		"abr": "box",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_Box"
 	},
@@ -18974,7 +18968,7 @@
 	},
 	{
 		"abr": "napkinholder",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_NapkinHolder"
 	},
@@ -18992,31 +18986,31 @@
 	},
 	{
 		"abr": "paper",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_Paper"
 	},
 	{
 		"abr": "pictureframe",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_PictureFrame"
 	},
 	{
 		"abr": "scents",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_Scents"
 	},
 	{
 		"abr": "shakers",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_Shakers"
 	},
 	{
 		"abr": "vase",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SEX_Vase"
 	},
@@ -19116,6 +19110,930 @@
 		"category": "Handwear and footwear",
 		"defname": "CAT_Handwear_VacsuitGloves"
 	},
+	{
+		"abr": "wallcooler",
+		"price": 246,
+		"category": "Temperature",
+		"defname": "WallCooler"
+	},
+	{
+		"abr": "wallheater",
+		"price": 246,
+		"category": "Temperature",
+		"defname": "WallHeater"
+	},
+	{
+		"abr": "zedembryo(fert.)",
+		"price": 12,
+		"category": "Misc",
+		"defname": "M3_EggZedFertilized"
+	},
+	{
+		"abr": "advanceddoublebunkbed",
+		"price": 1400,
+		"category": "Furniture",
+		"defname": "BB_AdvBunkBedDouble"
+	},
+	{
+		"abr": "advancedtriplebunkbed",
+		"price": 2075,
+		"category": "Furniture",
+		"defname": "BB_AdvBunkBedTriple"
+	},
+	{
+		"abr": "mechanizedkidoutfitstand",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "OutfitStandsPlus_MechanizedKidOutfitStand"
+	},
+	{
+		"abr": "mechanizedoutfitstand",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "OutfitStandsPlus_MechanizedOutfitStand"
+	},
+	{
+		"abr": "mendingkidoutfitstand",
+		"price": 1300,
+		"category": "Furniture",
+		"defname": "OutfitStandsPlus_MendingKidOutfitStand"
+	},
+	{
+		"abr": "mendingoutfitstand",
+		"price": 1300,
+		"category": "Furniture",
+		"defname": "OutfitStandsPlus_MendingOutfitStand"
+	},
+	{
+		"abr": "pfsanimalbed",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "PFS_AnimalBed"
+	},
+	{
+		"abr": "pfsarmchaira",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "PFS_Armchair"
+	},
+	{
+		"abr": "pfsarmchairb",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "PFS_ArmchairB"
+	},
+	{
+		"abr": "pfsautodoorb",
+		"price": 323,
+		"category": "Misc",
+		"defname": "PFS_AutodoorB"
+	},
+	{
+		"abr": "pfsautodoorc",
+		"price": 323,
+		"category": "Misc",
+		"defname": "PFS_AutodoorC"
+	},
+	{
+		"abr": "pfsbarricade",
+		"price": 144,
+		"category": "Misc",
+		"defname": "PFS_Barricade"
+	},
+	{
+		"abr": "pfsbed",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "PFS_Bed"
+	},
+	{
+		"abr": "pfsbilliardstable",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "PFS_BilliardsTable"
+	},
+	{
+		"abr": "pfsblueglass",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareD"
+	},
+	{
+		"abr": "pfscolumna",
+		"price": 71,
+		"category": "Misc",
+		"defname": "PFS_ColumnA"
+	},
+	{
+		"abr": "pfscolumnb",
+		"price": 121,
+		"category": "Misc",
+		"defname": "PFS_ColumnB"
+	},
+	{
+		"abr": "pfscolumnc",
+		"price": 121,
+		"category": "Misc",
+		"defname": "PFS_ColumnC"
+	},
+	{
+		"abr": "pfscouch",
+		"price": 817,
+		"category": "Furniture",
+		"defname": "PFS_Couch"
+	},
+	{
+		"abr": "pfscrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "PFS_Crib"
+	},
+	{
+		"abr": "pfscubelight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "PFS_CubeLight"
+	},
+	{
+		"abr": "pfsdiningchair",
+		"price": 190,
+		"category": "Furniture",
+		"defname": "PFS_DiningChair"
+	},
+	{
+		"abr": "pfsdisplaypod",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "PFS_DisplayPod"
+	},
+	{
+		"abr": "pfsdoorslope",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DoorSlope"
+	},
+	{
+		"abr": "pfsdoorframea",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "PFS_DoorFrameA"
+	},
+	{
+		"abr": "pfsdoublebed",
+		"price": 278,
+		"category": "Furniture",
+		"defname": "PFS_DoubleBed"
+	},
+	{
+		"abr": "pfsdressera",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_DresserA"
+	},
+	{
+		"abr": "pfsdresserb",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_DresserB"
+	},
+	{
+		"abr": "pfsendtable",
+		"price": 101,
+		"category": "Furniture",
+		"defname": "PFS_EndTable"
+	},
+	{
+		"abr": "pfsfirefoampopper",
+		"price": 300,
+		"category": "Misc",
+		"defname": "PFS_FirefoamPopper"
+	},
+	{
+		"abr": "pfsfloorlinelight",
+		"price": 14,
+		"category": "Furniture",
+		"defname": "PFS_FloorlineLight"
+	},
+	{
+		"abr": "pfsfruitbowl",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareB"
+	},
+	{
+		"abr": "pfsheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "PFS_Heater"
+	},
+	{
+		"abr": "pfshexatable(2x2)",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "PFS_HexaTable"
+	},
+	{
+		"abr": "pfshologlassautodoor",
+		"price": 617,
+		"category": "Misc",
+		"defname": "PFS_HoloGlassAutodoor"
+	},
+	{
+		"abr": "pfshologlassdesktop",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "PFS_HoloGlassDesktop"
+	},
+	{
+		"abr": "pfshologlasspanel",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_HoloGlassPanel"
+	},
+	{
+		"abr": "pfsmetalteddybear",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_MetalTeddyBear"
+	},
+	{
+		"abr": "pfsminihologlass",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_MiniHoloGlass"
+	},
+	{
+		"abr": "pfsobsidianfigurine",
+		"price": 25,
+		"category": "Furniture",
+		"defname": "PFS_ObsidianFigurine"
+	},
+	{
+		"abr": "pfspitcher",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareA"
+	},
+	{
+		"abr": "pfspokertable",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "PFS_PokerTable"
+	},
+	{
+		"abr": "pfsshelf",
+		"price": 66,
+		"category": "Furniture",
+		"defname": "PFS_Shelf"
+	},
+	{
+		"abr": "pfssmallshelf",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "PFS_ShelfSmall"
+	},
+	{
+		"abr": "pfssteeldoor",
+		"price": 169,
+		"category": "Misc",
+		"defname": "PFS_SteelDoor"
+	},
+	{
+		"abr": "pfsstoola",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PFS_Stool"
+	},
+	{
+		"abr": "pfsstoolb",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PFS_StoolB"
+	},
+	{
+		"abr": "pfstable(1x1)",
+		"price": 84,
+		"category": "Furniture",
+		"defname": "PFS_TableMini"
+	},
+	{
+		"abr": "pfstable(2x1)",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "PFS_TableB"
+	},
+	{
+		"abr": "pfstable(3x2)",
+		"price": 319,
+		"category": "Furniture",
+		"defname": "PFS_Table3x2a"
+	},
+	{
+		"abr": "pfstabletopplant",
+		"price": 19,
+		"category": "Furniture",
+		"defname": "PFS_TabletopPlant"
+	},
+	{
+		"abr": "pfsteacup",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareC"
+	},
+	{
+		"abr": "pfstri-light",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "PFS_TriLight"
+	},
+	{
+		"abr": "pfsz-frametable(2x2)",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "PFS_ZFrameTable"
+	},
+	{
+		"abr": "pfs_doorframe",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "PFS_DoorFrameB"
+	},
+	{
+		"abr": "pfs_doorframec",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "PFS_DoorFrameC"
+	},
+	{
+		"abr": "coolingplug",
+		"price": 1425,
+		"category": "Security",
+		"defname": "ShieldGen_CoolingPlug"
+	},
+	{
+		"abr": "plasmapipe",
+		"price": 10,
+		"category": "Misc",
+		"defname": "ShieldGen_PlasmaPipe"
+	},
+	{
+		"abr": "plasmapipe(underground)",
+		"price": 10,
+		"category": "Misc",
+		"defname": "ShieldGen_PlasmaPipeUnderground"
+	},
+	{
+		"abr": "shieldgenerator(astroglide)",
+		"price": 3083,
+		"category": "Security",
+		"defname": "ShieldGen_Shield_Astroglide"
+	},
+	{
+		"abr": "shieldgenerator(durex)",
+		"price": 4300,
+		"category": "Misc",
+		"defname": "ShieldGen_Shield_Durex"
+	},
+	{
+		"abr": "shieldgenerator(trojan)",
+		"price": 8308,
+		"category": "Misc",
+		"defname": "ShieldGen_Shield_Trojan"
+	},
+	{
+		"abr": "spacerdoublebunkbed",
+		"price": 2467,
+		"category": "Furniture",
+		"defname": "BB_Spacer_BunkBedDouble"
+	},
+	{
+		"abr": "spacertriplebunkbed",
+		"price": 3583,
+		"category": "Furniture",
+		"defname": "BB_Spacer_BunkBedTriple"
+	},
+	{
+		"abr": "armblademodule",
+		"price": 292,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_ArmBlade"
+	},
+	{
+		"abr": "armincineratormodule",
+		"price": 500,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Incinerator"
+	},
+	{
+		"abr": "armshotgunmodule",
+		"price": 433,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Shotgun"
+	},
+	{
+		"abr": "armsmgmodule",
+		"price": 433,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_SMG"
+	},
+	{
+		"abr": "bionicclawmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_BionicClaw"
+	},
+	{
+		"abr": "chipport",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "LTS_SkillChipPort"
+	},
+	{
+		"abr": "deathgripmodule",
+		"price": 500,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_DeathGrip"
+	},
+	{
+		"abr": "digitigrademodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_Digitigrade"
+	},
+	{
+		"abr": "drillhandmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_DrillHand"
+	},
+	{
+		"abr": "emergencyshield",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "LTS_EmergencyShield"
+	},
+	{
+		"abr": "emergencyvacseal",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "LTS_EmergencyVacseal"
+	},
+	{
+		"abr": "eyecolourmodule",
+		"price": 425,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_EyeColour"
+	},
+	{
+		"abr": "fieldhandmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_FieldHand"
+	},
+	{
+		"abr": "laserarmblademodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_LaserArmBlade"
+	},
+	{
+		"abr": "monowirewhipmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Monowire"
+	},
+	{
+		"abr": "nightvisionmodule",
+		"price": 1500,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_NightVision"
+	},
+	{
+		"abr": "personalgravengine",
+		"price": 3008,
+		"category": "Bionic",
+		"defname": "LTS_Gravlifter"
+	},
+	{
+		"abr": "plasmaclawmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_PlasmaClaw"
+	},
+	{
+		"abr": "psychicshield",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychokeneticShield"
+	},
+	{
+		"abr": "recoilsuppressionmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_RecoilSuppression"
+	},
+	{
+		"abr": "shieldimplant",
+		"price": 1967,
+		"category": "Bionic",
+		"defname": "LTS_ShieldImplant"
+	},
+	{
+		"abr": "skillchip(animals)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Animals"
+	},
+	{
+		"abr": "skillchip(artistic)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Artistic"
+	},
+	{
+		"abr": "skillchip(construction)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Construction"
+	},
+	{
+		"abr": "skillchip(cooking)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Cooking"
+	},
+	{
+		"abr": "skillchip(crafting)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Crafting"
+	},
+	{
+		"abr": "skillchip(intellectual)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Intellectual"
+	},
+	{
+		"abr": "skillchip(medical)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Medicine"
+	},
+	{
+		"abr": "skillchip(melee)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Melee"
+	},
+	{
+		"abr": "skillchip(mining)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Mining"
+	},
+	{
+		"abr": "skillchip(plants)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Plants"
+	},
+	{
+		"abr": "skillchip(shooting)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Shooting"
+	},
+	{
+		"abr": "skillchip(social)",
+		"price": 2092,
+		"category": "Skill chips",
+		"defname": "LTS_SpacerSkillChip_Social"
+	},
+	{
+		"abr": "targetingmodule",
+		"price": 1500,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_Targeting"
+	},
+	{
+		"abr": "techprint(ultratechbionicmodules)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_LTS_ModularBionicWeaponryUltra"
+	},
+	{
+		"abr": "telescopicsightmodule",
+		"price": 1500,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_Telescopic"
+	},
+	{
+		"abr": "ultraskillchip(animals)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Animals"
+	},
+	{
+		"abr": "ultraskillchip(artistic)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Artistic"
+	},
+	{
+		"abr": "ultraskillchip(construction)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Construction"
+	},
+	{
+		"abr": "ultraskillchip(cooking)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Cooking"
+	},
+	{
+		"abr": "ultraskillchip(crafting)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Crafting"
+	},
+	{
+		"abr": "ultraskillchip(intellectual)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Intellectual"
+	},
+	{
+		"abr": "ultraskillchip(medical)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Medicine"
+	},
+	{
+		"abr": "ultraskillchip(melee)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Melee"
+	},
+	{
+		"abr": "ultraskillchip(mining)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Mining"
+	},
+	{
+		"abr": "ultraskillchip(plants)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Plants"
+	},
+	{
+		"abr": "ultraskillchip(shooting)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Shooting"
+	},
+	{
+		"abr": "ultraskillchip(social)",
+		"price": 3333,
+		"category": "Ultra skill chips",
+		"defname": "LTS_UltraSkillChip_Social"
+	},
+	{
+		"abr": "vibro-module",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_VibroModule"
+	},
+	{
+		"abr": "zeusknucklesmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_ZeusKnuckles"
+	},
+	{
+		"abr": "commsimplant",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "LTS_CommsImplant"
+	},
+	{
+		"abr": "footblademodule",
+		"price": 292,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_FootBlade"
+	},
+	{
+		"abr": "neurostreamer",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "LTS_Neurostreamer"
+	},
+	{
+		"abr": "over-wallvent(wide)",
+		"price": 97,
+		"category": "Misc",
+		"defname": "Vent_Over2W"
+	},
+	{
+		"abr": "pfstable(1x1)b",
+		"price": 84,
+		"category": "Furniture",
+		"defname": "PFS_TableMiniB"
+	},
+	{
+		"abr": "pfstable(2x1)b",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "PFS_TableC"
+	},
+	{
+		"abr": "protectivelensmodule",
+		"price": 1500,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_ProtectiveLens"
+	},
+	{
+		"abr": "retractableflippermodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_RetractableFlipper"
+	},
+	{
+		"abr": "autoclave",
+		"price": 1108,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
+		"abr": "chemfuelpowerplant",
+		"price": 1558,
+		"category": "Oil",
+		"defname": "FuelPowerplant"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
+	},
+	{
+		"abr": "chemfuelstorage",
+		"price": 458,
+		"category": "Misc",
+		"defname": "FuelStorage"
+	},
+	{
+		"abr": "crudecracker",
+		"price": 1683,
+		"category": "Misc",
+		"defname": "CrudeCracker"
+	},
+	{
+		"abr": "crudeoilstorage",
+		"price": 458,
+		"category": "Misc",
+		"defname": "OilStorage"
+	},
+	{
+		"abr": "deepoilwell",
+		"price": 792,
+		"category": "Misc",
+		"defname": "DeepOilWell"
+	},
+	{
+		"abr": "deepoilwellhead",
+		"price": 90,
+		"category": "Misc",
+		"defname": "DeepOilWellHead"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": 2075,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
+	},
+	{
+		"abr": "largechemfuelpowerplant",
+		"price": 3750,
+		"category": "Misc",
+		"defname": "LargeFuelPowerplant"
+	},
+	{
+		"abr": "napalmbomb",
+		"price": 350,
+		"category": "Oil",
+		"defname": "NapalmBomb"
+	},
+	{
+		"abr": "napalmrefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "NapalmRefiner"
+	},
+	{
+		"abr": "napalmshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Napalm"
+	},
+	{
+		"abr": "napalmtrail",
+		"price": 9,
+		"category": "Misc",
+		"defname": "Filth_NapalmTrail"
+	},
+	{
+		"abr": "neutroaminerefiner",
+		"price": 1583,
+		"category": "Oil",
+		"defname": "NeutroamineRefiner"
+	},
+	{
+		"abr": "oilpipeline",
+		"price": 4,
+		"category": "Misc",
+		"defname": "OilPipeline"
+	},
+	{
+		"abr": "oilpipeline(hidden)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "OilPipelineHidden"
+	},
+	{
+		"abr": "oilwell",
+		"price": 792,
+		"category": "Misc",
+		"defname": "OilWell"
+	},
+	{
+		"abr": "oilwellhead",
+		"price": 90,
+		"category": "Misc",
+		"defname": "OilWellHead"
+	},
+	{
+		"abr": "pipelinevalve",
+		"price": 50,
+		"category": "Oil",
+		"defname": "pipelineValve"
+	},
+	{
+		"abr": "refineryunloadingbay",
+		"price": 49,
+		"category": "Oil",
+		"defname": "RefineryLoadingBay"
+	},
+	{
+		"abr": "resourceconsole",
+		"price": 642,
+		"category": "Oil",
+		"defname": "ResourceConsole"
+	},
+	{
+		"abr": "sparkgrid",
+		"price": 79,
+		"category": "Misc",
+		"defname": "SparkGrid"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": 1167,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": 808,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "uncuredplasteel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": 3,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
+	}
 	],
-	"total": 3187
+	"total": 3340
 }
