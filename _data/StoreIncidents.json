@@ -101,6 +101,21 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "reviveanypawn",
 		"price": 1200,
 		"karmatype": "Good"
@@ -236,5 +251,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 47
+	"total": 50
 }
