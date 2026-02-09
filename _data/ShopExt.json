@@ -3619,6 +3619,38 @@
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's vulgar jokes, lack of manners and sleazy demeanor tend to drive others away. Thankfully, Timmy doesn't let rejection get them down.",
+      "stats": [],
+      "conflicts": [
+        "kind",
+        "asexual",
+        "prude",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind",
+          "asexual",
+          "prude",
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Roo's Satyr Xenotype",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RBSF_Uncouth",
+      "name": "uncouth"
     }
   ],
   "races": [
